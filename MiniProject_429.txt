@@ -69,4 +69,102 @@ int main() {
     return 0;
 }
 
+INPUT/OUTPUT:
+
+
+
+Simple Calculator
+
+1. Add
+
+2. Subtract
+
+3. Multiply
+
+4. Divide
+
+5. Exit
+
+Enter your choice: 1
+
+Enter two numbers: 3 5
+
+Result: 8.00
+
+
+
+Simple Calculator
+
+1. Add
+
+2. Subtract
+
+3. Multiply
+
+4. Divide
+
+5. Exit
+
+Enter your choice: 2
+
+Enter two numbers: 5 3
+
+Result: 2.00
+
+
+
+Simple Calculator
+
+1. Add
+
+2. Subtract
+
+3. Multiply
+
+4. Divide
+
+5. Exit
+
+Enter your choice: 3
+
+Enter two numbers: 5 3
+
+Result: 15.00
+
+
+
+Simple Calculator
+
+1. Add
+
+2. Subtract
+
+3. Multiply
+
+4. Divide
+
+5. Exit
+
+Enter your choice: 4
+
+Enter two numbers: 2 4
+
+Result: 0.50
+
+
+
+Simple Calculator
+
+1. Add
+
+2. Subtract
+
+3. Multiply
+
+4. Divide
+
+5. Exit
+
+Enter your choice: 5
+
 
